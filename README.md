@@ -1,2 +1,6 @@
 # hello-world
-Just another repository
+
+Hi to all
+
+SLana is here to learn how to code
+I just with to get any knowledge of IT
